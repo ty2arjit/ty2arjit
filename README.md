@@ -66,7 +66,7 @@ Gamified immunology learning platform designed to make biology engaging.
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 ### Backend
