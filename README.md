@@ -125,6 +125,25 @@ Gamified immunology learning platform designed to make biology engaging.
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ty2arjit/ty2arjit/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ty2arjit/ty2arjit/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ty2arjit/ty2arjit/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
+
 ## ⚡ Fun Developer Facts
 
 * 💻 I enjoy turning ideas into real products.
