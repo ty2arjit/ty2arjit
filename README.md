@@ -78,7 +78,7 @@ Gamified immunology learning platform designed to make biology engaging.
 ### Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres, mysql,redis,prisma,git,github,vscode" />
 </p>
 
 ---
