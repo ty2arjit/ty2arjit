@@ -24,3 +24,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ty2arjit&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ty2arjit&layout=compact)
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
